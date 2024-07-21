@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-video: url('img/vide.mp4');
+    background-image: url('img/image.jpeg');
     background-size: cover; 
     background-position: center;
     display: flex;
